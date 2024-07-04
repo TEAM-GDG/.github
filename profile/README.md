@@ -1,6 +1,6 @@
 # TEAM - ??? 👋
 
-## 📌 팀 구성ㅋ
+## 📌 팀 구성
 |이름 | [용준](https://github.com/55yong) | [가영](https://github.com/kaouo) |[상희](https://github.com/tkdgml822) |[도훈](https://github.com/dohun1109)|[희수](https://github.com/kingxeesu) |[기봉](https://github.com/rohgibong)|
 | :-: | :-: | :-: | :-:| :-: | :-:| :-: |
 |프로필 | ![용준](https://avatars.githubusercontent.com/u/132319467?v=4)| ![가영](https://avatars.githubusercontent.com/u/144293040?v=4) | ![상희](https://avatars.githubusercontent.com/u/77792853?v=4)| ![도훈](https://avatars.githubusercontent.com/u/108252423?v=4) | ![희수](https://avatars.githubusercontent.com/u/112453560?v=4)| ![기봉](https://avatars.githubusercontent.com/u/119557561?v=4) |
