@@ -1,5 +1,5 @@
 # TEAM - GDG  👋
-<del>(기/디 구함)</del>
+<b>Growth, Develop, and Driven</b>
 ## 📌 팀 구성
 |이름 | [용준](https://github.com/55yong) | [가영](https://github.com/kaouo) |[상희](https://github.com/tkdgml822) |[도훈](https://github.com/dohun1109)|[희수](https://github.com/kingxeesu) |[기봉](https://github.com/rohgibong)|
 | :-: | :-: | :-: | :-:| :-: | :-:| :-: |
