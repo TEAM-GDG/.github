@@ -56,8 +56,8 @@
 |   기술 스택   | ![Tech Stacks](https://skillicons.dev/icons?i=swift) | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | ![Tech Stacks](https://skillicons.dev/icons?i=django) | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | 
 |   분류   | iOS | 백엔드 | 백엔드 | 백엔드 | 백엔드 | 백엔드 | 백엔드 | 백엔드 | 백엔드 |
 |   직책   | **대표** | **운영진** | **운영진** | **운영진** | 아기사자 | 아기사자 | 아기사자 | 아기사자 | 아기사자 | 아기사자 | 
-|   **이름**   | **[현동](https://github.com/lhdmir)** | **[상희](https://github.com/tkdgml822)** | **[희수](https://github.com/kingxeesu)** | **[용준](https://github.com/55yong)** | **[승헌](https://github.com/12seungheon)** | **[가영](https://github.com/kaouo)** | 
-| 프로필 | ![현동](https://github.com/lhdmir.png) | ![상희](https://github.com/tkdgml822.png) | ![희수](https://github.com/kingxeesu.png) | ![용준](https://github.com/55yong.png) | ![승헌](https://github.com/12seungheon.png) | ![가영](https://github.com/kaouo.png) | 
+|   **이름**   | **[현동](https://github.com/lhdmir)** | **[희수](https://github.com/kingxeesu)** | **[상희](https://github.com/tkdgml822)** | **[용준](https://github.com/55yong)** | **[승헌](https://github.com/12seungheon)** | **[가영](https://github.com/kaouo)** | 
+| 프로필 | ![현동](https://github.com/lhdmir.png) | ![희수](https://github.com/kingxeesu.png) | ![상희](https://github.com/tkdgml822.png) | ![용준](https://github.com/55yong.png) | ![승헌](https://github.com/12seungheon.png) | ![가영](https://github.com/kaouo.png) | 
 |   기술 스택   | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | ![Tech Stacks](https://skillicons.dev/icons?i=react) | ![Tech Stacks](https://skillicons.dev/icons?i=react) | ![Tech Stacks](https://skillicons.dev/icons?i=react) |
 |   분류   | 백엔드 | 백엔드 | 백엔드 | 프론트엔드 | 프론트엔드 | 프론트엔드 |
 |   직책   | 아기사자 | 아기사자 | 아기사자 | 아기사자 | 아기사자 | 아기사자 | 
