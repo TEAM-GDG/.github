@@ -99,18 +99,18 @@
 
 | 이름 | [용준](https://github.com/55yong) | [가영](https://github.com/kaouo) |[상희](https://github.com/tkdgml822) |[도훈](https://github.com/dohun1109)|[희수](https://github.com/kingxeesu) |[기봉](https://github.com/rohgibong) |
 | :-: | :-: | :-: | :-:| :-: | :-:| :-: |
-| 프로필 | <img src="https://github.com/55yong.png" width=100px height=100px alt="용준" /> | <img src="https://github.com/kaouo.png" width=100px height=100px alt="가영" /> | <img src="https://github.com/tkdgml822.png" width=100px height=100px alt="상희" /> | <img src="https://github.com/dohun1109.png" width=100px height=100px alt="도훈" /> | <img src="https://github.com/kingxeesu.png" width=100px height=100px alt="희수" /> | <img src="https://github.com/rohgibong.png" width=100px height=100px alt="기봉" /> |
-| 기술<br/>스택 | [![Tech Stacks](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) |
+| 프로필 | ![용준](https://github.com/55yong.png) | ![가영](https://github.com/kaouo.png) | ![상희](https://github.com/tkdgml822.png) | ![도훈](https://github.com/dohun1109.png) | ![희수](https://github.com/kingxeesu.png) | ![기봉](https://github.com/rohgibong.png) |
+| 기술 스택 | [![Tech Stacks](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) |
 | 분류 | 프론트엔드 | 프론트엔드 | 백엔드 | 백엔드 | 백엔드 | 백엔드 |
 
 </details>
 <details>
   <summary><h3>영남이공대학교 2팀</h3></summary>
 
-| 이름 | [승헌](https://github.com/12seungheon) | [현동](https://github.com/lhdmir) | [진수](https://github.com/JinsuBae2) | [성민](https://github.com/ad-astra-per-ardua) | [가현](https://github.com/gahyeeeon) |
+| 이름 | [승헌](https://github.com/12seungheon) | [현동](https://github.com/lhdmir) | [진수](https://github.com/JinsuBae2) | [성민](https://github.com/ad-astra-per-ardua) | [가현](https://github.com/gahyeeeon) | 
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 프로필 | <img src="https://github.com/12seungheon.png" width=100px height=100px alt="승헌" /> | <img src="https://github.com/lhdmir.png" width=100px height=100px alt="현동" /> | <img src="https://github.com/JinsuBae2.png" width=100px height=100px alt="진수" /> | <img src="https://github.com/ad-astra-per-ardua.png" width=100px height=100px alt="성민" /> | <img src="https://github.com/gahyeeeon.png" width=100px height=100px alt="가현" /> |
-| 기술<br/>스택 | [![Tech Stacks](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=django)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) |
-| 분류 | 프론트엔드 | 백엔드 | 백엔드 | 백엔드 | 백엔드 |
+| 프로필 | ![승헌](https://github.com/12seungheon.png) | ![현동](https://github.com/lhdmir.png) | ![진수](https://github.com/JinsuBae2.png) | ![성민](https://github.com/ad-astra-per-ardua.png) | ![가현](https://github.com/gahyeeeon.png) | 
+| 기술 스택 | [![Tech Stacks](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=django)](https://skillicons.dev) | [![Tech Stacks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | 
+| 분류 | 프론트엔드 | 백엔드 | 백엔드 | 백엔드 | 백엔드 | 
 
 </details>
